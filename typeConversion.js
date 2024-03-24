@@ -52,3 +52,9 @@ let num = 8;
 let binaryStr = num.toString(2);//converts the given base-10 number to its equivalent value in base-2
 console.log(binaryStr);
 
+
+//string -> array -> split
+//array -> string -> join
+//string -> number -> Number
+//number -> string -> toString
+
